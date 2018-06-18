@@ -20,4 +20,4 @@ nights = gets.chomp
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts ""
+puts "You would like to stay in #{stay} and eat #{eats} and stay for #{nights} nights"
