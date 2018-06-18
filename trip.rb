@@ -13,7 +13,7 @@ puts "What food would you like to eat?"
 
 eat = gets.chomp.capitalize
 
-puts "Yummy! #{eats} is so good."
+puts "Yummy! #{eat} is so good."
 
 puts "How many nights would you like to stay?"
 
