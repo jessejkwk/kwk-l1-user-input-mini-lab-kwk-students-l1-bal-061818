@@ -11,7 +11,7 @@ puts "Ok! Have fun staying at #{stay}"
 
 puts "What food would you like to eat?"
 
-eats = gets.chomp.capitalize
+eat = gets.chomp.capitalize
 
 puts "Yummy! #{eats} is so good."
 
