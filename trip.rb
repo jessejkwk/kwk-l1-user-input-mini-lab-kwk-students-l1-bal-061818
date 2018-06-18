@@ -26,4 +26,4 @@ puts "Ok! I'll put you down for #{nights} nights"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "You would like to stay in #{stay} and eat #{eats} and stay for #{nights} nights"
+puts "You would like to stay in #{stay} and eat #{eat} and stay for #{nights} nights"
